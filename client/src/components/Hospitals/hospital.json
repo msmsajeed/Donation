@@ -1,0 +1,142 @@
+[
+    {
+      "name": "Nawaloka Hospital.",
+      "type": "PLC",
+      "facility_type": "Hospital",
+      "address": "Deshamanya, 23 H K Dharmadasa Mawatha, 00200",
+      "contact_numbers": [
+        "0115 577 111"
+      ],
+      "location": "https://www.google.com/maps/dir/8.0407913,79.839386/Nawaloka+Hospitals+PLC./@7.4802944,79.4099205,9z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3ae2591514038547:0xa12560c4d858fc3f!2m2!1d79.8534526!2d6.9210072"
+    },
+
+     {
+      "name": "The Lanka Hospitals Corporation",
+      "type": "PLC",
+      "facility_type": "Hospital",
+      "address": "578 Elvitigala Mawatha, Colombo 00500",
+      "contact_numbers": [
+        "0115 430 000"
+        
+      ],
+      "latitude": "28.581862",
+      "longitude": "77.0153",
+      "location": "https://www.google.com/maps/place/Lanka+Hospitals/@6.8896503,79.8735208,17z/data=!4m12!1m6!3m5!1s0x3ae25a2d3e1a1f1b:0xe505e16b84fb506e!2sLanka+Hospitals!8m2!3d6.8896503!4d79.8757095!3m4!1s0x3ae25a2d3e1a1f1b:0xe505e16b84fb506e!8m2!3d6.8896503!4d79.8757095"
+    },
+     {
+      "name": "Asiri Hospitals Holdings.",
+      "type": "PLC",
+      "facility_type": "Hospital",
+      "address": "181 Kirula Rd, Colombo 00500",
+      "contact_numbers": [
+        "0114 523 300"
+      ],
+      "latitude": "28.60275",
+      "longitude": "77.31413",
+      "location": "https://www.google.com/maps/place/Asiri+Hospital/@6.8934032,79.8721189,17z/data=!3m1!4b1!4m5!3m4!1s0x3ae25a2cab4c884d:0xd834a1e52ce71614!8m2!3d6.8934032!4d79.8743076"
+    },
+     {
+      "name": "kings Hospital.",
+      "type": "Pvt",
+      "facility_type": "Hospital",
+      "address": "18/A Evergreen Park Rd, Colombo 00500",
+      "contact_numbers": [
+        "0117 743 743"
+        
+      ],
+      "latitude": "28.71517",
+      "longitude": "77.05802",
+      "location": "https://www.google.com/maps/place/Kings+Hospital+Colombo/@6.8950539,79.8772119,17z/data=!4m12!1m6!3m5!1s0x3ae25a2bdcb662c5:0xcf6dc296a34a0c21!2sKings+Hospital+Colombo!8m2!3d6.8950539!4d79.8794006!3m4!1s0x3ae25a2bdcb662c5:0xcf6dc296a34a0c21!8m2!3d6.8950539!4d79.8794006"
+    },
+     {
+      "name": "Jeewaka Private Hospital",
+      "type": "Pvt",
+      "facility_type": "Hospital",
+      "address": "No. 37 Horana Road, Padukka 10500",
+      "contact_numbers": [
+        "0112 859 157"
+        
+      ],
+      "latitude": "28.73089",
+      "longitude": "77.06352",
+      "location": "https://www.google.co.in/maps/place/Lalita+Hospital/@28.730684,77.0613213,17z/data=!3m1!4b1!4m5!3m4!1s0x390d06f13e701cdb:0x3262191db76ad458!8m2!3d28.730684!4d77.06351?hl=en&authuser=1"
+    },
+     {
+      "name": "Royal Hospital",
+      "type": "Pvt",
+      "facility_type": "Hospital",
+      "address": "No 62 W. A. Silva Mawatha, Colombo 00600",
+      "contact_numbers": [
+        "0112 586 581"
+        
+      ],
+      "latitude": "28.62129",
+      "longitude": "77.05027",
+      "location": "https://www.google.co.in/maps/place/Mata+Roop+Rani+Maggo+Hospital:+Dr+Aman+Maggo+General+Physician+in+Uttam+Nagar,+West+Delhi/@28.6209247,77.0468067,17z/data=!4m8!1m2!2m1!1sMata+Roop+Rani+Maggo+Hospital,+Uttam+Nagar!3m4!1s0x390d052507bf8e89:0x39ee0af2601fd893!8m2!3d28.6207766!4d77.047714?hl=en&authuser=0"
+    },
+     {
+      "name": "Golden Key Hospital",
+      "type": "Pvt",
+      "facility_type": "Hospital",
+      "address": "511/3 Cotta Rd, Colombo 10107",
+      "contact_numbers": [
+        "0112 880 200"
+        
+      ],
+      "latitude": "28.55765",
+      "longitude": "77.2457",
+      "location": "https://www.google.co.in/maps/place/National+Heart+Institute,+Raja+Dhirsain+Marg,+D+Block,+East+of+Kailash,+New+Delhi,+Delhi+110048/@28.5574541,77.2434904,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce3b5f9b459b7:0x8e5f7044f33fa8c9!8m2!3d28.5574541!4d77.2456791?hl=en&authuser=0"
+    },
+     {
+      "name": "Asia Hospitals",
+      "type": "Pvt",
+      "facility_type": "Hospital",
+      "address": "110 High Level Rd, Maharagama 10280",
+      "contact_numbers": [
+        "110 High Level Rd, Maharagama 10280"
+        
+      ],
+      "latitude": "28.61009",
+      "longitude": "77.2950",
+      "location": "https://www.google.co.in/maps/place/Kukreja+Hospital/@28.6092876,77.2926775,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce550188c7bdd:0xb6517f6c2cc013e3!8m2!3d28.6092876!4d77.2948662?hl=en&authuser=1"
+    },
+
+    {
+      "name": "The Central",
+      "type": "Pvt",
+      "facility_type": "Hospital",
+      "address": "114, Noris Canal Road, Colombo 10",
+      "contact_numbers": [
+        "+94 11 466 5500"
+        
+      ],
+      
+      "location": "https://goo.gl/maps/HKAQguGMrdSKZxV27"
+    },
+
+  {
+    "name": "Health Scan Private Hospital",
+    "type": "Pvt",
+    "facility_type": "Hospital",
+    "address": "No 9A Tickell Rd, Colombo 00800",
+    "contact_numbers": [
+      "+94114616666"
+      
+    ],
+    
+    "location": "https://goo.gl/maps/22pyccq6rmq9pqER7"
+  },
+
+  {
+    "name": "Golden Key Eye and ENT Hospital",
+    "type": "Pvt",
+    "facility_type": "Hospital",
+    "address": "1175, Cotta Road, Rajagiriya",
+    "contact_numbers": [
+      "+942880288"
+      
+    ],
+    
+    "location": "https://g.page/goldenkeyhospital?share"
+  }
+]
